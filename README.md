@@ -1,6 +1,6 @@
 # Módulo 3 - Trilha HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Título:** Recriando Wikipedia, com um layout melhor :) (no meu caso, bem rosa e lindo para combinar com os filmes da Barbie)
 
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
